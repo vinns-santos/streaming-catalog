@@ -1,0 +1,418 @@
+Sigla;Provedor;MesReferencia;Categoria;Servico;ServicoCloud;Valor;CanaisDigitaisPJ
+MBJ;AWS;jun/23;Compute;Virtual Server;EC2-Instances($);$25.364,39;MBJ
+MBJ;AWS;jun/23;Database;In-Memory Data Store;ElastiCache($);$2.960,32;MBJ
+MBJ;AWS;jun/23;Compute;Virtual Server;EC2-Other($);$2.656,45;MBJ
+MBJ;AWS;jun/23;Application Services;Messaging Services;Managed Streaming for Apache Kafka($);$2.108,19;MBJ
+MBJ;AWS;jun/23;Tax;Tax;Tax($);$1.593,57;MBJ
+MBJ;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$1.026,57;MBJ
+MBJ;AWS;jun/23;Networking & Content Delivery;Load Balancers;Elastic Load Balancing($);$303,17;MBJ
+MBJ;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$293,50;MBJ
+MBJ;AWS;jun/23;Compute;Container Management Service;Elastic Container Service for Kubernetes($);$226,47;MBJ
+MBJ;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$140,05;MBJ
+MBJ;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$120,62;MBJ
+MBJ;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$23,57;MBJ
+MBJ;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$5,79;MBJ
+MBJ;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$5,39;MBJ
+MBJ;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,81;MBJ
+MBJ;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,34;MBJ
+MBJ;AWS;jun/23;Storage;Storage;S3($);$0,16;MBJ
+MBJ;AWS;jun/23;Disaster Recovery Services;Automated Disaster Recovery Services;Backup($);$0,12;MBJ
+MBJ;AWS;jun/23;Storage;Storage;Elastic File System($);$0,11;MBJ
+MBJ;AWS;jun/23;Compute;Container Registration Service;EC2 Container Registry (ECR)($);$0,04;MBJ
+MBJ;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;MBJ
+MBJ;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;MBJ
+MBJ;AWS;jun/23;Storage;Storage;Glacier($);$0,00;MBJ
+MBJ;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;MBJ
+IBE;AWS;jun/23;Compute;Virtual Server;EC2-Instances($);$880,15;IBE
+IBE;AWS;jun/23;Compute;Virtual Server;EC2-Other($);$175,21;IBE
+IBE;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$96,38;IBE
+IBE;AWS;jun/23;Tax;Tax;Tax($);$84,36;IBE
+IBE;AWS;jun/23;Networking & Content Delivery;Load Balancers;Elastic Load Balancing($);$59,53;IBE
+IBE;AWS;jun/23;Compute;Container Management Service;Elastic Container Service for Kubernetes($);$58,32;IBE
+IBE;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$28,74;IBE
+IBE;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$17,95;IBE
+IBE;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$3,88;IBE
+IBE;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$3,82;IBE
+IBE;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$1,51;IBE
+IBE;AWS;jun/23;Storage;Storage;Elastic File System($);$1,20;IBE
+IBE;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,74;IBE
+IBE;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,72;IBE
+IBE;AWS;jun/23;Disaster Recovery Services;Automated Disaster Recovery Services;Backup($);$0,14;IBE
+IBE;AWS;jun/23;Storage;Storage;S3($);$0,03;IBE
+IBE;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,02;IBE
+IBE;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;IBE
+IBE;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;IBE
+IBE;AWS;jun/23;Storage;Storage;Glacier($);$0,00;IBE
+IBE;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;IBE
+SPI;AWS;jun/23;Compute;Virtual Server;EC2-Other($);$3.290,91;#N/D
+SPI;AWS;jun/23;Compute;Virtual Server;EC2-Instances($);$2.928,38;#N/D
+SPI;AWS;jun/23;Application Services;Messaging Services;Managed Streaming for Apache Kafka($);$934,22;#N/D
+SPI;AWS;jun/23;Tax;Tax;Tax($);$924,18;#N/D
+SPI;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$99,20;#N/D
+SPI;AWS;jun/23;Networking & Content Delivery;Load Balancers;Elastic Load Balancing($);$99,14;#N/D
+SPI;AWS;jun/23;Compute;Container Management Service;Elastic Container Service for Kubernetes($);$58,32;#N/D
+SPI;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$52,54;#N/D
+SPI;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$48,68;#N/D
+SPI;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$23,22;#N/D
+SPI;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$4,86;#N/D
+SPI;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$4,22;#N/D
+SPI;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,83;#N/D
+SPI;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,56;#N/D
+SPI;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,54;#N/D
+SPI;AWS;jun/23;Storage;Storage;S3($);$0,06;#N/D
+SPI;AWS;jun/23;Storage;Storage;Elastic File System($);$0,01;#N/D
+SPI;AWS;jun/23;Disaster Recovery Services;Automated Disaster Recovery Services;Backup($);$0,00;#N/D
+SPI;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;#N/D
+SPI;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;#N/D
+SPI;AWS;jun/23;Storage;Storage;Glacier($);$0,00;#N/D
+SPI;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;#N/D
+ECT;AWS;jun/23;Compute;Virtual Server;EC2-Instances($);$505,65;ECT
+ECT;AWS;jun/23;Compute;Virtual Server;EC2-Other($);$90,65;ECT
+ECT;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$74,92;ECT
+ECT;AWS;jun/23;Tax;Tax;Tax($);$68,68;ECT
+ECT;AWS;jun/23;Compute;Container Management Service;Elastic Container Service for Kubernetes($);$58,32;ECT
+ECT;AWS;jun/23;Networking & Content Delivery;Load Balancers;Elastic Load Balancing($);$39,68;ECT
+ECT;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$19,08;ECT
+ECT;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$5,13;ECT
+ECT;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$1,64;ECT
+ECT;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$1,27;ECT
+ECT;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,68;ECT
+ECT;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$0,33;ECT
+ECT;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,27;ECT
+ECT;AWS;jun/23;Storage;Storage;S3($);$0,01;ECT
+ECT;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,01;ECT
+ECT;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;ECT
+ECT;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;ECT
+ECT;AWS;jun/23;Storage;Storage;Elastic File System($);$0,00;ECT
+ECT;AWS;jun/23;Storage;Storage;Glacier($);$0,00;ECT
+ECT;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;ECT
+ECT;AWS;jun/23;Disaster Recovery Services;Automated Disaster Recovery Services;Backup($);$0,00;ECT
+MX;AWS;jun/23;Database;In-Memory Data Store;ElastiCache($);$892,78;#N/D
+MX;AWS;jun/23;Application Services;Messaging Services;Managed Streaming for Apache Kafka($);$489,63;#N/D
+MX;AWS;jun/23;Database;Relational Database Management Service;Relational Database Service($);$373,84;#N/D
+MX;AWS;jun/23;Tax;Tax;Tax($);$249,05;#N/D
+MX;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$18,18;#N/D
+MX;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$7,95;#N/D
+MX;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$6,69;#N/D
+MX;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$5,67;#N/D
+MX;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$4,09;#N/D
+MX;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$1,02;#N/D
+MX;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,82;#N/D
+MX;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$0,15;#N/D
+MX;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,06;#N/D
+MX;AWS;jun/23;Storage;Storage;S3($);$0,05;#N/D
+MX;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;#N/D
+MX;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;#N/D
+MX;AWS;jun/23;Storage;Storage;Glacier($);$0,00;#N/D
+MX;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;#N/D
+BUS;AWS;jun/23;Database;Relational Database Management Service;Relational Database Service($);$291,56;#N/D
+BUS;AWS;jun/23;Tax;Tax;Tax($);$45,70;#N/D
+BUS;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$17,58;#N/D
+BUS;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$6,30;#N/D
+BUS;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$6,21;#N/D
+BUS;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$5,42;#N/D
+BUS;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$2,46;#N/D
+BUS;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,83;#N/D
+BUS;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$0,08;#N/D
+BUS;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,07;#N/D
+BUS;AWS;jun/23;Storage;Storage;S3($);$0,03;#N/D
+BUS;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,02;#N/D
+BUS;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;#N/D
+BUS;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;#N/D
+BUS;AWS;jun/23;Storage;Storage;Glacier($);$0,00;#N/D
+BUS;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;#N/D
+MOC;AWS;jun/23;Application Services;Messaging Services;Managed Streaming for Apache Kafka($);$3.189,00;MOC
+MOC;AWS;jun/23;Database;Non Relational Database Management Service;DocumentDB (with MongoDB compatibility)($);$2.197,01;MOC
+MOC;AWS;jun/23;Tax;Tax;Tax($);$802,19;MOC
+MOC;AWS;jun/23;Database;Relational Database Management Service;Relational Database Service($);$374,88;MOC
+MOC;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$15,69;MOC
+MOC;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$7,12;MOC
+MOC;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$5,82;MOC
+MOC;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$5,27;MOC
+MOC;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$2,46;MOC
+MOC;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$1,87;MOC
+MOC;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,82;MOC
+MOC;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$0,08;MOC
+MOC;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,06;MOC
+MOC;AWS;jun/23;Storage;Storage;S3($);$0,03;MOC
+MOC;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;MOC
+MOC;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;MOC
+MOC;AWS;jun/23;Storage;Storage;Glacier($);$0,00;MOC
+MOC;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;MOC
+POB;AWS;jun/23;Database;Non Relational Database Management Service;DocumentDB (with MongoDB compatibility)($);$1.836,62;POB
+POB;AWS;jun/23;Database;Relational Database Management Service;Relational Database Service($);$927,00;POB
+POB;AWS;jun/23;Tax;Tax;Tax($);$388,33;POB
+POB;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$21,51;POB
+POB;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$7,91;POB
+POB;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$5,55;POB
+POB;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$5,52;POB
+POB;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$2,47;POB
+POB;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,82;POB
+POB;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$0,30;POB
+POB;AWS;jun/23;Compute;Virtual Server;EC2-Other($);$0,13;POB
+POB;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,07;POB
+POB;AWS;jun/23;Storage;Storage;S3($);$0,06;POB
+POB;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,02;POB
+POB;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;POB
+POB;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;POB
+POB;AWS;jun/23;Storage;Storage;Glacier($);$0,00;POB
+POB;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;POB
+YL;AWS;jun/23;Database;Relational Database Management Service;Relational Database Service($);$899,36;#N/D
+YL;AWS;jun/23;Tax;Tax;Tax($);$129,58;#N/D
+YL;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$16,16;#N/D
+YL;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$6,52;#N/D
+YL;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$6,09;#N/D
+YL;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$5,44;#N/D
+YL;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$2,46;#N/D
+YL;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,83;#N/D
+YL;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$0,07;#N/D
+YL;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,07;#N/D
+YL;AWS;jun/23;Storage;Storage;S3($);$0,05;#N/D
+YL;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,02;#N/D
+YL;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;#N/D
+YL;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;#N/D
+YL;AWS;jun/23;Storage;Storage;Glacier($);$0,00;#N/D
+YL;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;#N/D
+CCY;AWS;jun/23;Database;Relational Database Management Service;Relational Database Service($);$236,67;#N/D
+CCY;AWS;jun/23;Tax;Tax;Tax($);$37,91;#N/D
+CCY;AWS;jun/23;Management Tools;Resource / Configuration Inventory;Config($);$16,40;#N/D
+CCY;AWS;jun/23;Management Tools;Alerts and Remediation guidance Service;Security Hub($);$5,65;#N/D
+CCY;AWS;jun/23;Management Tools;Logging & Monitoring;CloudWatch($);$5,41;#N/D
+CCY;AWS;jun/23;Security & Identity, Compliance;Cloud Security Assesment Service;GuardDuty($);$4,90;#N/D
+CCY;AWS;jun/23;Security & Identity, Compliance;Key Management Services;Key Management Service($);$2,46;#N/D
+CCY;AWS;jun/23;Management Tools;Server Management Services;Systems Manager($);$1,83;#N/D
+CCY;AWS;jun/23;Management Tools;Cloud Cost / Performance / Security Advisor;Cost Explorer($);$0,82;#N/D
+CCY;AWS;jun/23;Compute;Event Driven Computing;Lambda($);$0,06;#N/D
+CCY;AWS;jun/23;Storage;Storage;S3($);$0,03;#N/D
+CCY;AWS;jun/23;Security & Identity, Compliance;Secrets lifecycle;Secrets Manager($);$0,02;#N/D
+CCY;AWS;jun/23;Application Services;Messaging Services;SQS($);$0,00;#N/D
+CCY;AWS;jun/23;Application Services;Notification Service;SNS($);$0,00;#N/D
+CCY;AWS;jun/23;Storage;Storage;Glacier($);$0,00;#N/D
+CCY;AWS;jun/23;Compute;Visual workflow;Step Functions($);$0,00;#N/D
+AFJ;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,03;AFJ
+AFJ;Azure;jun/23;Database;Non Relational Database Management Service;Azure Cosmos DB;$44.722,29;AFJ
+AFJ;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Azure Defender;$3.055,43;AFJ
+AFJ;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;AFJ
+AFJ;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$105,84;AFJ
+AFJ;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,05;AFJ
+AFJ;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$838,08;AFJ
+AFJ;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;AFJ
+AFJ;Azure;jun/23;Storage;Storage;Storage;$240,33;AFJ
+AFJ;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$1.418,26;AFJ
+AFJ;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$112,46;AFJ
+AR;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,00;#N/D
+AR;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+AR;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,01;#N/D
+AR;Azure;jun/23;Storage;Storage;Storage;$0,06;#N/D
+AR;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$30,24;#N/D
+BSR;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,00;#N/D
+BSR;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+BSR;Azure;jun/23;Storage;Storage;Storage;$0,04;#N/D
+BSR;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$15,12;#N/D
+CCY;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,01;#N/D
+CCY;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+CCY;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,01;#N/D
+CCY;Azure;jun/23;Storage;Storage;Storage;$0,12;#N/D
+CCY;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$60,48;#N/D
+CDI;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+CDI;Azure;jun/23;Storage;Storage;Storage;$65,39;#N/D
+CDI;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$16,64;#N/D
+CDI;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$5,04;#N/D
+D6;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,27;#N/D
+D6;Azure;jun/23;Networking & Content Delivery;Load Balancers;Application Gateway;$143,85;#N/D
+D6;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+D6;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,05;#N/D
+D6;Azure;jun/23;Management Tools;Logging & Monitoring;Log Analytics;$7,77;#N/D
+D6;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$1.118,88;#N/D
+D6;Azure;jun/23;Storage;Storage;Storage;$0,27;#N/D
+D6;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$45,36;#N/D
+E2;Azure;jun/23;Storage;Storage;Storage;$22,78;#N/D
+E2;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$65,10;#N/D
+E2;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$0,00;#N/D
+ECT;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$1.298,50;ECT
+ECT;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$860,82;ECT
+ECT;Azure;jun/23;Networking & Content Delivery;Networking & Content Delivery;Azure DNS;$1,07;ECT
+ECT;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;ECT
+ECT;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,32;ECT
+ECT;Azure;jun/23;Networking & Content Delivery;Load Balancers;Load Balancer;$88,36;ECT
+ECT;Azure;jun/23;Management Tools;Logging & Monitoring;Log Analytics;$1.834,89;ECT
+ECT;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$838,08;ECT
+ECT;Azure;jun/23;Storage;Storage;Storage;$1.713,92;ECT
+ECT;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$6.383,50;ECT
+ECT;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$355,90;ECT
+EF;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$10,17;#N/D
+EF;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$858,63;#N/D
+EF;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+EF;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$262,08;#N/D
+EF;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,01;#N/D
+EF;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;#N/D
+EF;Azure;jun/23;Storage;Storage;Storage;$0,14;#N/D
+EF;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$100,80;#N/D
+EPL;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,00;EPL
+EPL;Azure;jun/23;Database;Non Relational Database Management Service;Azure Cosmos DB;$685,03;EPL
+EPL;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;EPL
+EPL;Azure;jun/23;Compute;Event Driven Computing;Event Grid;$0,02;EPL
+EPL;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$211,69;EPL
+EPL;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;EPL
+EPL;Azure;jun/23;Storage;Storage;Storage;$0,14;EPL
+EPL;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$45,36;EPL
+G3;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,08;#N/D
+G3;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+G3;Azure;jun/23;Storage;Storage;Storage;$66,40;#N/D
+G3;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$134,42;#N/D
+G3;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$25,53;#N/D
+GL;Azure;jun/23;Networking & Content Delivery;Networking & Content Delivery;Azure DNS;$0,34;#N/D
+GL;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+GL;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,01;#N/D
+GL;Azure;jun/23;Storage;Storage;Storage;$0,02;#N/D
+GL;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$10,08;#N/D
+GOP;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,00;#N/D
+GOP;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+GOP;Azure;jun/23;Storage;Storage;Storage;$0,02;#N/D
+GOP;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$10,08;#N/D
+GPI;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,01;#N/D
+GPI;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+GPI;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,01;#N/D
+GPI;Azure;jun/23;Storage;Storage;Storage;$0,76;#N/D
+GPI;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$40,32;#N/D
+GQ;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$255,34;#N/D
+GQ;Azure;jun/23;Networking & Content Delivery;Load Balancers;Application Gateway;$85,68;#N/D
+GQ;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+GQ;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,02;#N/D
+GQ;Azure;jun/23;Networking & Content Delivery;Load Balancers;Load Balancer;$25,21;#N/D
+GQ;Azure;jun/23;Storage;Storage;Storage;$1.567,89;#N/D
+GQ;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$1.012,02;#N/D
+GQ;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$26,12;#N/D
+GT;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$20,33;#N/D
+GT;Azure;jun/23;Database;Non Relational Database Management Service;Azure Cosmos DB;$352,67;#N/D
+GT;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$1.868,29;#N/D
+GT;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+GT;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$60,48;#N/D
+GT;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,00;#N/D
+GT;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$1.676,16;#N/D
+GT;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;#N/D
+GT;Azure;jun/23;Storage;Storage;Storage;$1,54;#N/D
+GT;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$111,22;#N/D
+HQ;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$10,18;#N/D
+HQ;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$1.398,98;#N/D
+HQ;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+HQ;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,02;#N/D
+HQ;Azure;jun/23;Storage;Storage;Storage;$18,71;#N/D
+HQ;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$60,48;#N/D
+IBE;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,00;IBE
+IBE;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;IBE
+IBE;Azure;jun/23;Networking & Content Delivery;Load Balancers;Load Balancer;$25,21;IBE
+IBE;Azure;jun/23;Management Tools;Logging & Monitoring;Log Analytics;$1.388,95;IBE
+IBE;Azure;jun/23;Storage;Storage;Storage;$73,37;IBE
+IBE;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$996,18;IBE
+IBE;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$44,68;IBE
+IBJ;Azure;jun/23;Networking & Content Delivery;Networking & Content Delivery;Azure DNS;$0,35;IBJ
+IBJ;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;IBJ
+IBJ;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,01;IBJ
+IBJ;Azure;jun/23;Networking & Content Delivery;Load Balancers;Load Balancer;$12,60;IBJ
+IBJ;Azure;jun/23;Storage;Storage;Storage;$167,50;IBJ
+IBJ;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$575,54;IBJ
+IBJ;Azure;jun/23;Compute;Licenses;Virtual Machines Licenses;$370,79;IBJ
+IBJ;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$40,62;IBJ
+MBJ;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,04;MBJ
+MBJ;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;MBJ
+MBJ;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,01;MBJ
+MBJ;Azure;jun/23;Networking & Content Delivery;Load Balancers;Load Balancer;$12,68;MBJ
+MBJ;Azure;jun/23;Management Tools;Logging & Monitoring;Log Analytics;$3.602,07;MBJ
+MBJ;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$558,72;MBJ
+MBJ;Azure;jun/23;Storage;Storage;Storage;$68,53;MBJ
+MBJ;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$2.245,21;MBJ
+MBJ;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$87,87;MBJ
+MX;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+MX;Azure;jun/23;Storage;Storage;Storage;$0,02;#N/D
+MX;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$10,08;#N/D
+PAS;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$10,18;PAS
+PAS;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$305,59;PAS
+PAS;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;PAS
+PAS;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,04;PAS
+PAS;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$838,08;PAS
+PAS;Azure;jun/23;Storage;Storage;Storage;$5,49;PAS
+PAS;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$71,73;PAS
+PBI;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$20,34;PBI
+PBI;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$2.309,47;PBI
+PBI;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;PBI
+PBI;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$211,68;PBI
+PBI;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,02;PBI
+PBI;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$838,08;PBI
+PBI;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;PBI
+PBI;Azure;jun/23;Storage;Storage;Storage;$0,14;PBI
+PBI;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$120,96;PBI
+PLA;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,02;PLA
+PLA;Azure;jun/23;Networking & Content Delivery;Load Balancers;Application Gateway;$15,34;PLA
+PLA;Azure;jun/23;Compute;Virtual Server;Azure App Service;$972,72;PLA
+PLA;Azure;jun/23;Networking & Content Delivery;Bastion;Azure Bastion;$95,86;PLA
+PLA;Azure;jun/23;Networking & Content Delivery;Networking & Content Delivery;Azure DNS;$2,37;PLA
+PLA;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,05;PLA
+PLA;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,06;PLA
+PLA;Azure;jun/23;Management Tools;Logging & Monitoring;Log Analytics;$1,36;PLA
+PLA;Azure;jun/23;Networking & Content Delivery;IaaS Monitor;Network Watcher;$579,46;PLA
+PLA;Azure;jun/23;Database;Relational Database Management Service;SQL Managed Instance;$780,48;PLA
+PLA;Azure;jun/23;Storage;Storage;Storage;$199,58;PLA
+PLA;Azure;jun/23;Compute;Virtual Server;Virtual Machines;$67,18;PLA
+PLA;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$75,45;PLA
+POB;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$20,37;POB
+POB;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$1.834,89;POB
+POB;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;POB
+POB;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,12;POB
+POB;Azure;jun/23;Storage;Storage;Storage;$0,04;POB
+POB;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$57,06;POB
+SH;Azure;jun/23;Disaster Recovery Services;Automated Disaster Recovery Services;Azure Site Recovery;$16,93;#N/D
+SH;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+SH;Azure;jun/23;Compute;Event Driven Computing;Functions;$115,35;#N/D
+SH;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$5,34;#N/D
+SH;Azure;jun/23;Management Tools;Logging & Monitoring;Log Analytics;$1,25;#N/D
+SH;Azure;jun/23;Storage;Storage;Storage;$167,61;#N/D
+SH;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$45,36;#N/D
+VX;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,00;#N/D
+VX;Azure;jun/23;Database;Non Relational Database Management Service;Azure Cosmos DB;$24,19;#N/D
+VX;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+VX;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;#N/D
+VX;Azure;jun/23;Storage;Storage;Storage;$0,04;#N/D
+VX;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$60,48;#N/D
+WO;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$238,83;WO
+WO;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;WO
+WO;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$838,08;WO
+WO;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;WO
+WO;Azure;jun/23;Storage;Storage;Storage;$1,42;WO
+WO;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$25,54;WO
+WZ;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$10,16;#N/D
+WZ;Azure;jun/23;Database;Non Relational Database Management Service;Azure Cosmos DB;$13,71;#N/D
+WZ;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$712,62;#N/D
+WZ;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+WZ;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$45,36;#N/D
+WZ;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,00;#N/D
+WZ;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;#N/D
+WZ;Azure;jun/23;Storage;Storage;Storage;$0,01;#N/D
+WZ;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$69,65;#N/D
+YC;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$10,16;#N/D
+YC;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$1.230,21;#N/D
+YC;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,00;#N/D
+YC;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$419,40;#N/D
+YC;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$40,32;#N/D
+YD;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$0,00;#N/D
+YD;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+YD;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$1.675,08;#N/D
+YD;Azure;jun/23;Storage;Storage;Storage;$7,11;#N/D
+YD;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$16,62;#N/D
+YF;Azure;jun/23;Database;Non Relational Database Management Service;Azure Cosmos DB;$326,30;#N/D
+YF;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+YF;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$120,97;#N/D
+YF;Azure;jun/23;Security & Identity, Compliance;Key Management Services;Key Vault;$0,00;#N/D
+YF;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;#N/D
+YF;Azure;jun/23;Storage;Storage;Storage;$0,44;#N/D
+YF;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$50,40;#N/D
+YK;Azure;jun/23;Security & Identity, Compliance;Threat and Vulnerability assessment;Advanced Threat Protection;$10,16;#N/D
+YK;Azure;jun/23;Database;Relational Database Management Service;Azure Database for PostgreSQL;$1.562,24;#N/D
+YK;Azure;jun/23;Networking & Content Delivery;Bandwidth;Bandwidth;$0,00;#N/D
+YK;Azure;jun/23;Storage;Storage;Storage;$0,03;#N/D
+YK;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$25,20;#N/D
+YMB;Azure;jun/23;Database;Non Relational Database Management Service;Azure Cosmos DB;$97,79;#N/D
+YMB;Azure;jun/23;Big Data & Advanced Analytics;Streaming Service;Event Hubs;$60,48;#N/D
+YMB;Azure;jun/23;Database;In-Memory Data Store;Redis Cache;$55,44;#N/D
+YMB;Azure;jun/23;Application Services;Messaging Service;Service Bus;$0,01;#N/D
+YMB;Azure;jun/23;Networking & Content Delivery;Virtual Networking;Virtual Network;$50,40;#N/D
